@@ -9,3 +9,4 @@
 |Contents|
 |--------|
 |Bit Operation|
+|Digital Logic|
