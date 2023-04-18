@@ -11,3 +11,4 @@
 |Bit Operation|
 |Digital Logic|
 |Finite State Machine|
+|Assembly Basic|
