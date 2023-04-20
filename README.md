@@ -12,3 +12,4 @@
 |Digital Logic|
 |Finite State Machine|
 |Assembly Basic|
+|Assembly Deeper|
